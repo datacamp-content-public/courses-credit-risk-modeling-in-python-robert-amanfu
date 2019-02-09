@@ -1,6 +1,7 @@
 ---
 title: 'Chapter Title Here'
 description: 'Chapter description goes here.'
+free_preview: true
 ---
 
 ## Example coding exercise
@@ -40,3 +41,16 @@ This is an example exercise.
 ```{python}
 
 ```
+
+---
+
+## Lesson 2.1 - Introduction to logistic regression modeling
+
+```yaml
+type: VideoExercise
+key: ff9a389130
+xp: 50
+```
+
+`@projector_key`
+3e2d624300abd9e269bcd4230b0a5212
